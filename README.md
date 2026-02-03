@@ -1,2 +1,1 @@
-# EaglerConsole | Controller support mod for EaglerForge
-So pretty much put this link: `https://raw.githubusercontent.com/ZXMushroom63/eagler-controller-support/main/eagler_controller_support.js` in a new build of EaglerForgeInjector.
+its controler suport mod for eaglercraft i have not tested it but i will likely integrate it into a version of tuffclient at a later time to use it click on the file click raw copy the url and paste it into your eaglerforge enabled client and it should work, hopefully also ty to the dude on discord for letting me know about this
